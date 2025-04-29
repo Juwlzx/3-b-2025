@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #e770ff;
+    background-color: #ff70d6;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #ffffff;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: hsl(283, 100%, 63%);
+    background-color: #ff42d9;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #f047ff;
+    background-color: #ff47ac;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #e100ff;
+    background-color: #ff00dd;
     border: none;
     font-weight: bold;
 }
